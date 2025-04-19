@@ -71,5 +71,21 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-day-picker": "8.10.1"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarhanS7/Portfolio-Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarhanS7/Portfolio-Web/issues"
+  },
+  "homepage": "https://github.com/FarhanS7/Portfolio-Web#readme",
+  "description": ""
 }
